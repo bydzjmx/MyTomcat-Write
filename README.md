@@ -272,6 +272,7 @@ public class TimeServlet extends MyServlet{
 6. 开启myTomcat服务器，进行访问
 
 运行MyTomcat类的main方法，启动服务器，在浏览器输入url访问
+
 ![image](https://note.youdao.com/yws/public/resource/593c01edf75491c49f2952dd3b0229ae/xmlnote/21BE6A87BDD24DFB97F689F955444FE2/9769)
 
 ---
